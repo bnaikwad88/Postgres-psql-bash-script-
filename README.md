@@ -1,1 +1,1 @@
-# Postgres-psql-bash-script-
+#  PostgreSQL (psql)---Processing through bash scripting
